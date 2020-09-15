@@ -1,0 +1,110 @@
+[
+  {
+    "id": "a65b710e-f6c3-11ea-adc1-0242ac120002",
+    "name": "swisspro AG",
+    "location": "Urdorf",
+    "jobs": 17,
+    "reviews": 6,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_2030_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/toplogos/2030.png"
+  },
+  {
+    "id": "bc64f16e-f6c3-11ea-adc1-0242ac120002",
+    "name": "Lidl Schweiz",
+    "location": "Weinfelden",
+    "jobs": 14,
+    "reviews": 15,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_71234_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/organisation/profile_image_71234.jpg"
+  },
+  {
+    "id": "c1c9e9c0-f6c3-11ea-adc1-0242ac120002",
+    "name": "SANITIZED AG",
+    "location": "Burgdorf",
+    "jobs": 1,
+    "reviews": 0,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_6417_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/organisation/profile_image_6417.jpg"
+  },
+  {
+    "id": "c5ae9b44-f6c3-11ea-adc1-0242ac120002",
+    "name": "Noser Engineering AG",
+    "location": "Winterthur",
+    "jobs": 46,
+    "reviews": 1,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_6740_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/organisation/profile_image_6740.jpg"
+  },
+  {
+    "id": "ca179104-f6c3-11ea-adc1-0242ac120002",
+    "name": "Ruckstuhl AG, Teppichfabrik",
+    "location": "Langentahl",
+    "jobs": 0,
+    "reviews": 0,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/profile_image_6917.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/organisation/card_image_6917_580x0.jpg"
+  },
+  {
+    "id": "cedd1e84-f6c3-11ea-adc1-0242ac120002",
+    "name": "Energie 360° AG",
+    "location": "Zürich",
+    "jobs": 5,
+    "reviews": 1,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_33118_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/toplogos/33118.jpeg"
+  },
+  {
+    "id": "d2e7ce52-f6c3-11ea-adc1-0242ac120002",
+    "name": "OTTO'S AG",
+    "location": "Sursee",
+    "jobs": 182,
+    "reviews": 28,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_26130_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/organisation/profile_image_26130.jpg"
+  },
+  {
+    "id": "d6a7cbfa-f6c3-11ea-adc1-0242ac120002",
+    "name": "Mecha AG",
+    "location": "Belp",
+    "jobs": 0,
+    "reviews": 0,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_83598_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/toplogos/83598.jpeg"
+  },
+  {
+    "id": "dc2f4288-f6c3-11ea-adc1-0242ac120002",
+    "name": "GetYourGuide AG",
+    "location": "Zürich",
+    "jobs": 0,
+    "reviews": 0,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_80803_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/organisation/profile_image_80803.jpg"
+  },
+  {
+    "id": "e03d4ae6-f6c3-11ea-adc1-0242ac120002",
+    "name": "Hivejobs",
+    "location": "Zürich",
+    "jobs": 0,
+    "reviews": 0,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_74616_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/organisation/profile_image_74616.jpg"
+  },
+  {
+    "id": "e44ae436-f6c3-11ea-adc1-0242ac120002",
+    "name": "Japan Tobacco International AG",
+    "location": "Dagmersellen",
+    "jobs": 2,
+    "reviews": 1,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_12668_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/toplogos/12668.png"
+  },
+  {
+    "id": "e88ded86-f6c3-11ea-adc1-0242ac120002",
+    "name": "TERRA AG für Tiefbautechnik",
+    "location": "Reiden",
+    "jobs": 1,
+    "reviews": 1,
+    "bg_url": "https://img.jobs.ch/www/img/organisation/card_image_8991_580x0.jpg",
+    "logo_url": "https://img.jobs.ch/www/img/organisation/profile_image_8991.jpg"
+  }
+]
